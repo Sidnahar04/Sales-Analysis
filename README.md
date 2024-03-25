@@ -19,7 +19,9 @@
 ## Data Cleaning and Preparation:
 
 •	Firstly,I have loaded all the excel files in SQL as hosted them as my localhost and connected them to  my python and Power BI.As my intention was to use both python and Power BI cleaning and performing operations on my dataset.
+
 •	Made some calculations like Profit for each unit including and excluding discounts,Count of orders by each customer,Merged some types of stores and introduced new type as Others in Python.
+
 •	Mostly my data was cleaned,then made relationships in Power BI and started working on measures and Data Analysis.
 
 ### Measures and Calculated Columns:
