@@ -117,7 +117,7 @@ Store Insights:
 
 • Joshua is fastest selling employee with least number of days to sell a product followed by Antony and Jonathan.
 
-## Recommendatiosn that can be made to the company:
+## Recommendations that can be made to the company:
 
 • Introduce some discounts in first 6 months so the sales can be higher in those months as well.
 
